@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "64b89fff084897052e79d09f"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "emailVerified": true,
+  "phone": "9847612345",
+  "userType": "admin_user",
+  "totalRequestedBooks": 0,
+  "totalAcceptedBooks": 0,
+  "password": "$2b$10$ByhWWpoVPEeZHsuZZsY/2eqNJAqZJI7I4XsGfJL1k7KLaZC5aaKrG",
+  "__v": 0
+}]

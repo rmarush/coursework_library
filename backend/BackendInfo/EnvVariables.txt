@@ -1,0 +1,19 @@
+CONNECTION_PORT = 5000
+
+CONNECTION_URL =  mongodb://127.0.0.1:27017/librarymgmtsystem?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.9.0
+
+JWT_SECRET = n?s!6m=F$Kg%AgTJ-gN5)Hn~YtllC.AT
+
+JWT_REFRESH_SECRET = &h+D?fhvq$cC6WoR
+
+JWT_LIFE = 30m
+
+JWT_REFRESH_LIFE = 365d
+
+
+# FOR EMAIL Verification
+
+EMAIL_USERNAME = Enter your Gmail Account EMAIL here
+EMAIL_PASSWORD = Enter your Gmail Account 'APP Password' ! not normal login password
+
+NOTE : App Password can be generated in google account after unlocking 2factor authentication 

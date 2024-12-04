@@ -1,0 +1,39 @@
+.adminpanel-container a {
+  text-decoration: none;
+  color: black;
+}
+.adminpanel-container a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.card-admin {
+  background-color: rgba(144, 206, 241, 0.267) !important;
+  width: fit-content;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.card-admin-main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-admin:hover {
+  background-color: rgba(160, 173, 243, 0.863) !important;
+  color: white;
+}
+
+.adminpanel-container {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.452);
+  border-radius: 10px;
+}
+
+.card-admin-icon {
+  font-size: 3rem;
+}
+
+.card-admin-icon:hover {
+  font-size: 3rem;
+  color: white;
+}
